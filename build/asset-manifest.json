@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-deliver-app/static/css/main.463acf2b.css",
+    "main.js": "/Food-deliver-app/static/js/main.39942dbe.js",
+    "static/media/meals.jpg": "/Food-deliver-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Food-deliver-app/index.html",
+    "main.463acf2b.css.map": "/Food-deliver-app/static/css/main.463acf2b.css.map",
+    "main.39942dbe.js.map": "/Food-deliver-app/static/js/main.39942dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463acf2b.css",
+    "static/js/main.39942dbe.js"
+  ]
+}
